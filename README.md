@@ -1,4 +1,4 @@
-Mono Project Website [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
+Mono - A Cross platform, open source .NET framework [![Build Status](https://travis-ci.org/mono/website.svg)](https://travis-ci.org/mono/website)
 ==================================================================================================================
 
 This repository contains the files used for generating the [Mono website](http://www.mono-project.com).

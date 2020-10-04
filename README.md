@@ -10,7 +10,7 @@ Contributing to the website
 
 **Note:** Major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
 
-If you want to edit a page, the easiest way is to click the ![Edit page on GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
+If you want to edit a page, the easiest way is to click the ![Edit page on the GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
 
 This will open the source file on GitHub where you can click the pencil button to start editing:
 ![Arrow to pencil](https://cloud.githubusercontent.com/assets/1376924/3712474/1d2fe57a-1517-11e4-86b2-d083dbeaa4ae.png)
@@ -24,7 +24,7 @@ After you've finished your changes, enter a proper summary and description and c
 Setting up a local copy of the website
 --------------------------------------
 
-For larger changes, using the web-based editor on GitHub is not really convenient. A better way is to setup a local copy of the website where you can experiment.
+For larger changes, using the web-based editor on GitHub is not really convenient. A better way is to set up a local copy of the website where you can experiment.
 
 ### Dependencies
 
